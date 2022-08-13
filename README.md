@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# About The Project
+# django_channels_chat_app
 
 ![](https://i.imgur.com/HUvduUO.png)
 ### Built With
